@@ -5,5 +5,5 @@
    
 </p>
 <p align="center">
-<a href="https://guns.lol/bustersword">guns.lol/bustersword</a>ᅟ⠀⠀<a href="https://x.com/okcomputerist">twitter</a>⠀⠀<a href="https://backloggd.com/u/sou/">backloggd</a>
+<a href="https://guns.lol/bustersword">guns.lol/bustersword</a>⠀⠀ᅟ<a href="https://rentry.co/oogh">rentry</a>⠀⠀<a href="https://x.com/okcomputerist">twitter</a>⠀⠀
 </p>
