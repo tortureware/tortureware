@@ -1,1 +1,1 @@
-[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=shinceI&count=1&width=380&show_user=footer&header_style=none&footer_style=compact_stats&bg_color=000000&maxage=60)](https://www.last.fm/user/shinceI)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ovr3qu5ehgugx2quqpgmazzur4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ffffff&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ovr3qu5ehgugx2quqpgmazzur4&redirect=true)
